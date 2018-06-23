@@ -1,0 +1,122 @@
+Find Maimum Heap Size = 5767168 2017-12-11T13:16:44.017
+
+Sublist Size: 19200 2017-12-11T13:16:44.052
+
+Phase One on File: Employees500000.txt 2017-12-11T13:16:44.052
+
+Entering Function Readfile 2017-12-11T13:16:44.053
+
+Current file Pointer 0 in file: Employees500000.txt 2017-12-11T13:16:44.054
+
+Entering Function Readfile 2017-12-11T13:16:45.665
+
+Current file Pointer 969885 in file: Employees500000.txt 2017-12-11T13:16:45.665
+
+Entering Function Readfile 2017-12-11T13:16:47.046
+
+Current file Pointer 1939704 in file: Employees500000.txt 2017-12-11T13:16:47.046
+
+Entering Function Readfile 2017-12-11T13:16:48.379
+
+Current file Pointer 2909609 in file: Employees500000.txt 2017-12-11T13:16:48.380
+
+Entering Function Readfile 2017-12-11T13:16:49.705
+
+Current file Pointer 3879490 in file: Employees500000.txt 2017-12-11T13:16:49.705
+
+Entering Function Readfile 2017-12-11T13:16:51.045
+
+Current file Pointer 4849280 in file: Employees500000.txt 2017-12-11T13:16:51.046
+
+Entering Function Readfile 2017-12-11T13:16:52.379
+
+Current file Pointer 5819177 in file: Employees500000.txt 2017-12-11T13:16:52.379
+
+Entering Function Readfile 2017-12-11T13:16:53.772
+
+Current file Pointer 6789037 in file: Employees500000.txt 2017-12-11T13:16:53.772
+
+Entering Function Readfile 2017-12-11T13:16:55.145
+
+Current file Pointer 7758894 in file: Employees500000.txt 2017-12-11T13:16:55.145
+
+Entering Function Readfile 2017-12-11T13:16:56.468
+
+Current file Pointer 8728805 in file: Employees500000.txt 2017-12-11T13:16:56.469
+
+Entering Function Readfile 2017-12-11T13:16:57.819
+
+Current file Pointer 9698658 in file: Employees500000.txt 2017-12-11T13:16:57.819
+
+Entering Function Readfile 2017-12-11T13:16:59.152
+
+Current file Pointer 10668491 in file: Employees500000.txt 2017-12-11T13:16:59.153
+
+Entering Function Readfile 2017-12-11T13:17:00.476
+
+Current file Pointer 11638399 in file: Employees500000.txt 2017-12-11T13:17:00.476
+
+Entering Function Readfile 2017-12-11T13:17:01.804
+
+Current file Pointer 12608229 in file: Employees500000.txt 2017-12-11T13:17:01.804
+
+Entering Function Readfile 2017-12-11T13:17:03.136
+
+Current file Pointer 13578089 in file: Employees500000.txt 2017-12-11T13:17:03.136
+
+Entering Function Readfile 2017-12-11T13:17:04.469
+
+Current file Pointer 14547991 in file: Employees500000.txt 2017-12-11T13:17:04.469
+
+Entering Function Readfile 2017-12-11T13:17:05.791
+
+Current file Pointer 15517805 in file: Employees500000.txt 2017-12-11T13:17:05.791
+
+Entering Function Readfile 2017-12-11T13:17:07.143
+
+Current file Pointer 16487720 in file: Employees500000.txt 2017-12-11T13:17:07.143
+
+Entering Function Readfile 2017-12-11T13:17:08.469
+
+Current file Pointer 17457620 in file: Employees500000.txt 2017-12-11T13:17:08.470
+
+Entering Function Readfile 2017-12-11T13:17:09.797
+
+Current file Pointer 18427393 in file: Employees500000.txt 2017-12-11T13:17:09.797
+
+Entering Function Readfile 2017-12-11T13:17:11.147
+
+Current file Pointer 19397313 in file: Employees500000.txt 2017-12-11T13:17:11.147
+
+Entering Function Readfile 2017-12-11T13:17:12.578
+
+Current file Pointer 20367208 in file: Employees500000.txt 2017-12-11T13:17:12.578
+
+Entering Function Readfile 2017-12-11T13:17:13.943
+
+Current file Pointer 21336992 in file: Employees500000.txt 2017-12-11T13:17:13.943
+
+Entering Function Readfile 2017-12-11T13:17:15.381
+
+Current file Pointer 22306896 in file: Employees500000.txt 2017-12-11T13:17:15.382
+
+Entering Function Readfile 2017-12-11T13:17:16.772
+
+Current file Pointer 23276781 in file: Employees500000.txt 2017-12-11T13:17:16.773
+
+Entering Function Readfile 2017-12-11T13:17:18.127
+
+Current file Pointer 24246577 in file: Employees500000.txt 2017-12-11T13:17:18.127
+
+Entering Function Readfile 2017-12-11T13:17:19.475
+
+Current file Pointer 25216480 in file: Employees500000.txt 2017-12-11T13:17:19.475
+
+Entering Function Readfile 2017-12-11T13:17:19.521
+
+Sublist Size: 28800 2017-12-11T13:17:19.521
+
+Phase One on File: Projects.txt 2017-12-11T13:17:19.521
+
+Projects.txt cannot be found 2017-12-11T13:17:19.522
+
