@@ -24,7 +24,7 @@ local.properties
 
 # Java annotation processor (APT)
 .factorypath
-
+*.temp
 # PDT-specific (PHP Development Tools)
 .buildpath
 
@@ -47,3 +47,4 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+

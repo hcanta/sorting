@@ -8,11 +8,11 @@ public class Constants
 	/**
 	 * prefix for the sorted sublist of data_1
 	 */
-	public static final String DATA_ONE_SORTED = "Data_One_Sorted_Sublist_";
+	public static final String DATA_ONE_SORTED = "temp/Data1/Data_One_Sorted_Sublist_";
 	/**
 	 * Prefix for the sorted sublist of data_2
 	 */
-	public static final String DATA_TWO_SORTED = "Data_Two_Sorted_Sublist_";
+	public static final String DATA_TWO_SORTED = "temp/Data2/Data_Two_Sorted_Sublist_";
 	/**
 	 * Path to the resulting join output
 	 */

@@ -113,7 +113,7 @@ public class Tpmms
     {
     	long [] seekArray = new long[fileCounter];
     	String file = "";
-        String prefix = data1 ? "temp/Data1/"+ Constants.DATA_ONE_SORTED : "temp/Data2/" +  Constants.DATA_TWO_SORTED;
+        String prefix = data1 ? Constants.DATA_ONE_SORTED : Constants.DATA_TWO_SORTED;
         short capacity = (short) (heapSize/ 1000000);
         capacity = (short) (capacity *(data1 ? Constants.NO_DATA_ONE_TUPPLES_ONE_BLOCK : Constants.NO_DATA_TWO_TUPPLES_ONE_BLOCK ) );
         short outputListSize =   (short) (30 * capacity);
