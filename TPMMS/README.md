@@ -1,14 +1,5 @@
-# sorting
-Implementation of some sorting algorithms
-
-# Bubble Sort
-the bubble sort is implemented in the bubbleSort.py file
-
-## To Run
-
-# TPMMS
-Two Phase Multi-Way Merge Sort
-Please check the TPMMS folder
+#TPMMS
+ Two Phase  Multi-Way Merge Sort
 
 ## To Compile 
  Please use: javac -d bin/ .\code\Main.java
